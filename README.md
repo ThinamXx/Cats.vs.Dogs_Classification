@@ -1,1 +1,1 @@
-# **Cat vs Dogs Classification_CNN**
+# **Cats vs Dogs Classification:CNN**
