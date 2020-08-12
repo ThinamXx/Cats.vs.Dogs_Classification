@@ -1,1 +1,1 @@
-# Cat.vs.Dogs_Classification
+# **Cat vs Dogs Classification_CNN**
