@@ -48,3 +48,7 @@ ImageDataGenerator(rescale=1./255,
 **Snapshot of the Loss and Accuracy score with Transfer Learning**
 
 ![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1597396086/Vali_y547gk.png)
+
+**Snapshot of the Output of Model**
+
+![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1597396296/AAAA_unl2fs.png)
